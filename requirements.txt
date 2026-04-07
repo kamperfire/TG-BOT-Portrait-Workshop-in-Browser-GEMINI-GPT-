@@ -1,0 +1,6 @@
+aiogram
+aiohttp
+colorama
+Pillow
+playwright
+python-dotenv
